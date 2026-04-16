@@ -40,3 +40,7 @@ A cup off coffee at hand lets get to work!
 - `ip address 192.168.1.1 255.255.255.0` — assigns IP
 - `no shutdown` — turns the interface on
 - `show ip interface brief` — verifies interface status
+
+- <img width="721" height="529" alt="Screenshot From 2026-04-17 00-50-21" src="https://github.com/user-attachments/assets/30983437-2bfb-41d2-b1cb-87a6da1467b6" />
+<img width="894" height="529" alt="Screenshot From 2026-04-17 00-48-43" src="https://github.com/user-attachments/assets/07252f70-3281-4201-ae2b-8a89e7f8958d" />
+
